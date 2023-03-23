@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/Hero_BasicAttack_Spritesheet_Temp_3.png-5d51727c65c61b6c821b0b386579d16c.image"
+
+[deps]
+
+source_file="res://basicattack/Hero_BasicAttack_Spritesheet_Temp_3.png"
+dest_files=[ "res://.import/Hero_BasicAttack_Spritesheet_Temp_3.png-5d51727c65c61b6c821b0b386579d16c.image" ]
+
+[params]
+
